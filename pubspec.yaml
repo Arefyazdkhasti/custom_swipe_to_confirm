@@ -1,7 +1,7 @@
 name: custom_swipe_to_confirm
-description: "A new Flutter package project."
+description: "A Customizable Swipe to Confirm Widget."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Arefyazdkhasti/custom_swipe_to_confirm
 
 environment:
   sdk: ^3.6.2
