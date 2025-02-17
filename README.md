@@ -31,7 +31,7 @@ Add the package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  custom_swipe_to_confirm: ^1.0.0
+  custom_swipe_to_confirm: ^0.0.1
 ```
 
 Then, run the following command to install the package:
