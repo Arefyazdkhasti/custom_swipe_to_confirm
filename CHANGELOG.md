@@ -1,4 +1,7 @@
 
+## Version 0.0.2
+  - fix description and typedef new syntax
+
 ## Version 0.0.1
 
 ### **Released: [2025-02-17]**
