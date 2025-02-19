@@ -384,4 +384,4 @@ class _SwipeableWidgetState extends State<SwipeableWidget>
   }
 }
 
-typedef SwipeValueCallBack(double value);
+typedef SwipeValueCallBack = void Function(double value);

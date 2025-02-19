@@ -1,5 +1,5 @@
 name: custom_swipe_to_confirm
-description: "A Customizable Swipe to Confirm Widget."
+description: "A highly customizable Flutter widget for swipe-to-confirm actions. Perfect for authentication, payments, or any action requiring user confirmation. Easy to integrate and style."
 version: 0.0.1
 homepage: https://github.com/Arefyazdkhasti/custom_swipe_to_confirm
 
